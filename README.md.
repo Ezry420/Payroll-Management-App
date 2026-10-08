@@ -1,0 +1,15 @@
+# Payroll Management System
+
+Official Android application for employees to securely access their payroll information.
+
+## Features
+- Secure employee login using Employee ID
+- Personal payroll and payslip viewing
+- Net pay and deduction details
+- Holiday credits
+- Password management
+
+## Android Application
+Version: 1.0.0
+
+Developed for authorized employees only.
